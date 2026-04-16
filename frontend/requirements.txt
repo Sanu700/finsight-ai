@@ -1,1 +1,8 @@
-https://finsight-ai-9vef.onrender.com
+fastapi==0.95.2
+uvicorn
+pydantic==1.10.13
+streamlit
+requests
+pandas
+plotly
+python-dotenv
