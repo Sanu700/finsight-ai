@@ -14,7 +14,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://finsight-ai-9vef.onrender.com"
 
 CATEGORIES = [
     "Food & Dining", "Transport", "Shopping", "Utilities",
